@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  background-image: linear-gradient(#cc2b5e, #753a88);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+button {
+  padding: 1rem 3rem;
+  margin: 2rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
